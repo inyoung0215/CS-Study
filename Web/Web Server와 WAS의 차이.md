@@ -1,6 +1,5 @@
 # Web Server와 WAS의 차이
 
----
 `“상황에 따라 변하는 정보를 제공할 수 있는가?”`
 
 ## Web Server (웹 서버)
@@ -32,6 +31,7 @@
 
 <img src="https://github.com/kkzoone/4Group-Study/assets/65496092/264fef13-7281-48a8-b5c2-aa72bad37f5c" width="800" height="300"/>
 
+
 정적 컨텐츠는 Web Server가 동적 컨텐츠는 WAS가 담당하도록 분리하여 부하를 줄이면 수행 속도가 빨라진다.
 
 ## 2. 여러 대의 WAS를 연결하여 로드밸런싱
@@ -40,7 +40,8 @@
 
 웹 서버를 앞에 두면, 뒤에 여러 대의 WAS를 연결하여 요청을 나누어서 처리하도록 설정할 수 있다.
 
-![Load Balancing.png](..%2F..%2F..%2FOneDrive%2F%EC%82%AC%EC%A7%84%2FLoad%20Balancing.png)
+<img src="https://github.com/kkzoone/4Group-Study/assets/65496092/db3e9dbd-a202-4222-933d-a1e56b5d4e59" width="400" height="300"/>
+
 
 또한, 여러 대의 WAS를 사용할 때에는 **Health check를 통해** 하나의 WAS에 오류가 발생하더라도 다른 WAS를 통해 사용자가 정상적으로 이용하도록 제어할 수 있다
 
@@ -49,5 +50,3 @@
 
 # Reference
 > [[10분 테코톡] 알리의 Web Server vs WAS](https://youtu.be/mcnJcjbfjrs)
-
-

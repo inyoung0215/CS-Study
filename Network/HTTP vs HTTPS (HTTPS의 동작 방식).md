@@ -66,6 +66,7 @@ SSL (Secure Sockets Layer)과 TLS (Transport Layer Security)은 네트워크 통
   [공개키로 암호화] -> [개인키로 복호화]
   <br></br>
   공개키로 암호화한 정보는 그 쌍이 되는 개인키로만 복호화가 가능.
+  <br></br>
   인가할 사용자의 공개키로 암호화 하여 데이터를 전송 -> 인가된 사용자만 볼 수 있음
   <br></br>
   ![](https://velog.velcdn.com/images/meong/post/fbc598b7-90d3-4e40-b7fc-ed42d596cf5a/image.png)
@@ -74,6 +75,7 @@ SSL (Secure Sockets Layer)과 TLS (Transport Layer Security)은 네트워크 통
   [개인키로 암호화] -> [공개키로 복호화]
   <br></br>
   개인키로 암호화 한 정보는 그 쌍이 되는 공개키로만 복호화가 가능.
+  <br></br>
   임의의 암호문이 A의 암호문인지 확인하려면 A의 공개키로 복호화가 가능한지 확인 하면 됨
   <br></br>
   ![](https://velog.velcdn.com/images/meong/post/48858154-115e-49a0-99a1-dd882bc80135/image.png)

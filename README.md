@@ -17,6 +17,7 @@
   - [Context Switching](Operating%20System%2FContext%20Switching.md)
   - [Blocking,Non-blocking & Synchronous,Asynchronous](Operating%20System%2FBlocking%2CNon-blocking%20%26%20Synchronous%2CAsynchronous.md)
 - [Database (데이터베이스)]
+  - [인덱스(Index)](Database%2F%EC%9D%B8%EB%8D%B1%EC%8A%A4%28Index%29.md)
 - [Network (네트워크)]
   - [HTTP vs HTTPS (HTTPS의 동작 방식)](Network%2FHTTP%20vs%20HTTPS%20%28HTTPS%EC%9D%98%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EC%8B%9D%29.md)
   - [OSI 7계층](Network%2FOSI%207%EA%B3%84%EC%B8%B5.md)

@@ -7,6 +7,7 @@
   - [REST API](Web/REST%20API.md)
 - [Data Structure (자료구조)]
 - [Algorithm (알고리즘)]
+  - [거품, 선택, 삽입 정렬](Algorithm%2F%EA%B1%B0%ED%92%88%2C%20%EC%84%A0%ED%83%9D%2C%20%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC.md)
 - [Operating System (운영체제)]
   - [메모리 관리 기법](Operating%20System%2F%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B4%80%EB%A6%AC%20%EA%B8%B0%EB%B2%95.md)
   - [프로세스 vs 스레드](Operating%20System%2F%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20vs%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
